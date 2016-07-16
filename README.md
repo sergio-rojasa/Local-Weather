@@ -10,6 +10,6 @@ HTML| CSS | JS
 
 <br>
 ### Application Overview
-<img src="http://i.imgur.com/qSsTjsM.png"> |
+<img src="http://i.imgur.com/BMjqxPx.png"> |
 --- |
 Trending photos view
