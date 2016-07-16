@@ -6,4 +6,4 @@
 ### Technology Stack
 <img src="http://i.imgur.com/dktBkgD.png"> |<img src="http://i.imgur.com/DTLdYkx.png"> | <img src="http://i.imgur.com/P5hKmWx.png"> | <img src="http://i.imgur.com/hi6gCzf.png">|<img src="http://i.imgur.com/jK9PTgu.png">
 --- | --- | --- | --- | --- |
-Angularjs| Ionic | MongoDB| Nodejs|Express.js
+HTML| CSS | JS| Nodejs|Express.js
