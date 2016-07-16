@@ -4,4 +4,4 @@
 
 <br>
 ### Technology Stack
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">|
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_64.png">|
