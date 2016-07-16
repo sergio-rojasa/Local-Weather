@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Local Weather</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body onload="getLocation(); fahrenheit()">
+  <header>
+  </header>
+  <main>
+    <div id="city">
+    </div>
+    <div id="region">
+    </div>
+    <div id="weather-image">
+    </div>
+    <div id="description">
+    </div>
+    <div id="temperature">
+    </div>
+    <div id="unit">
+      <button id="fahrenheit" onclick="fahrenheit()">
+        F
+      </button>
+      <button id="celsius" onclick="celsius()">
+        C
+      </button>
+    </div>
+  </main>
+  <footer>
+  </footer>
+  <script src="main.js"></script>
+</body>
+</html>
