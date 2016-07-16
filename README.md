@@ -4,6 +4,6 @@
 
 <br>
 ### Technology Stack
-<img src="http://i.imgur.com/dktBkgD.png"> |<img src="http://i.imgur.com/DTLdYkx.png"> | <img src="http://i.imgur.com/P5hKmWx.png"> | <img src="http://i.imgur.com/hi6gCzf.png">|<img src="http://i.imgur.com/jK9PTgu.png">
---- | --- | --- | --- | --- |
+<img src="http://i.imgur.com/dktBkgD.png"> |<img src="http://i.imgur.com/DTLdYkx.png"> | <img src="http://i.imgur.com/P5hKmWx.png"> | 
+--- | --- | --- |
 HTML| CSS | JS
