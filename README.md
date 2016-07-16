@@ -4,7 +4,6 @@
 
 <br>
 ### Technology Stack
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_64.png">|
-
+<img src="http://i.imgur.com/dktBkgD.png"> |<img src="http://i.imgur.com/DTLdYkx.png"> | <img src="http://i.imgur.com/P5hKmWx.png"> | <img src="http://i.imgur.com/hi6gCzf.png">|<img src="http://i.imgur.com/jK9PTgu.png">
 --- | --- | --- | --- | --- |
-HTML| CSS | JS
+Angularjs| Ionic | MongoDB| Nodejs|Express.js
