@@ -1,3 +1,3 @@
 # Local-Weather
 
-> LOCAL WEATHER IS A WEB APPLICATION THAT DISPLAY THE USER WEATHER BASED ON THEIR CURRENT LOCATION.
+> Local Weather is a web application that display the user weather based on their current location.
