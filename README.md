@@ -12,4 +12,4 @@ HTML| CSS | JS
 ### Application Overview
 <img src="http://i.imgur.com/BMjqxPx.png"> |
 --- |
-Trending photos view
+Display Weather
